@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dbffe41f-b860-4cc1-9a47-85094445d4b0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Ficha4/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ficha4/src/MatrixUtils/Calculadora.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ficha1/Ficha1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ficha3/Ficha3.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ficha4/Ficha4.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ficha4/out/production/Ficha4/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/Ficha4/out/production/Ficha4/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ficha4/out/production/Ficha4/MatrixUtils/MatrixUtilities.class" beforeDir="false" afterPath="$PROJECT_DIR$/Ficha4/out/production/Ficha4/MatrixUtils/MatrixUtilities.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ficha4/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ficha4/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ficha4/src/MatrixUtils/MatrixUtilities.java" beforeDir="false" afterPath="$PROJECT_DIR$/Ficha4/src/MatrixUtils/MatrixUtilities.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/desafioMatriz/desafioMatriz.iml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="1jt4hFhCG4kFoQ0n4LFIKEhi2FR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dbffe41f-b860-4cc1-9a47-85094445d4b0" name="Default Changelist" comment="" />
+      <created>1604610170736</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604610170736</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="360" y="53" key="new project wizard" timestamp="1604610188051">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="360" y="53" key="new project wizard/0.0.1536.864@0.0.1536.864" timestamp="1604610188051" />
+  </component>
+</project>
